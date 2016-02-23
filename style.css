@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(80, 80, 80);
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#map {
+  position: relative;;
+  width: 90%;
+  margin: 0 auto;
+  height: 80vh;
+}
